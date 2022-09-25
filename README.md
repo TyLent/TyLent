@@ -12,6 +12,3 @@
 <a href="https://www.youtube.com/c/UClnm4kLZvGQAXNRz0C7PRAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.tylent" height="30" width="40" /></a>
 </p>
 
- <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/subscribers/UClnm4kLZvGQAXNRz0C7PRAg?color=orangescribe&logorColor=Yourbescribe&logorColor=Yourbescribe&logor=Yourbescribe&logor=Yourbescribe&logor=Yourbescript&logor=Yourbescript&logor=Yourbescript&logor= =flat" alt="YT Subscribe"/></a>
-  <a href="https://www.youtube.com/channel/UClnm4kLZvGQAXNRz0C7PRAg"><img src="https://img.shields.io/youtube/channel/views/UClnm4kLZvGQAXNRz0C7PRAg?color=orange&logo&logoColor=Viewtus =flat" alt="YT Views"/></a>
-
